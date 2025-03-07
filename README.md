@@ -14,4 +14,5 @@ git pull
 
 #### Branching commands
 To create a new branch: git checkout -b <new_branch_name>
+
 To switch to an existing branch: git checkout <branch_name>
