@@ -16,3 +16,5 @@ git pull
 To create a new branch: git checkout -b <new_branch_name>
 
 To switch to an existing branch: git checkout <branch_name>
+
+To push to a branch: git push --set-upstream origin <branch_name>
